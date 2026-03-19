@@ -1,0 +1,405 @@
+{
+    "A": {
+        "name": "Backpack",
+        "variants": [
+            {
+                "name": "Auro",
+                "code": "A001",
+                "color": "black",
+                "quantity": 8,
+                "cost_price": 24.75,
+                "price": 45.0
+            },
+            {
+                "name": "Auro",
+                "code": "A002",
+                "color": "white",
+                "quantity": 5,
+                "cost_price": 31.5,
+                "price": 45.0
+            },
+            {
+                "name": "The Tortoise",
+                "code": "A003",
+                "color": "pink",
+                "quantity": 21,
+                "cost_price": 22.0,
+                "price": 55.0
+            },
+            {
+                "name": "Pocketz",
+                "code": "A004",
+                "color": "yellow",
+                "quantity": 8,
+                "cost_price": 20.9,
+                "price": 38.0
+            },
+            {
+                "name": "Bagsy",
+                "code": "A005",
+                "color": "red",
+                "quantity": 9,
+                "cost_price": 25.2,
+                "price": 42.0
+            }
+        ]
+    },
+    "B": {
+        "name": "Tote Bag",
+        "variants": [
+            {
+                "name": "Canvas Basic",
+                "code": "B001",
+                "color": "blue",
+                "quantity": 15,
+                "cost_price": 11.0,
+                "price": 20.0
+            },
+            {
+                "name": "Market Pro",
+                "code": "B002",
+                "color": "grey",
+                "quantity": 12,
+                "cost_price": 14.5,
+                "price": 25.0
+            }
+        ]
+    },
+    "C": {
+        "name": "Shoulder bag",
+        "variants": [
+            {
+                "name": "Urban Edge",
+                "code": "C001",
+                "color": "black",
+                "quantity": 5,
+                "cost_price": 33.0,
+                "price": 60.0
+            },
+            {
+                "name": "Street Chic",
+                "code": "C002",
+                "color": "pink",
+                "quantity": 7,
+                "price": 65.0,
+                "cost_price": 42.25
+            }
+        ]
+    },
+    "D": {
+        "name": "Handbag",
+        "variants": [
+            {
+                "name": "Classy Mini",
+                "code": "D001",
+                "color": "white",
+                "quantity": 4,
+                "cost_price": 45.9,
+                "price": 85.0
+            },
+            {
+                "name": "Evening Gala",
+                "code": "D002",
+                "color": "red",
+                "quantity": 3,
+                "cost_price": 71.5,
+                "price": 110.0
+            },
+            {
+                "name": "Daily Suede",
+                "code": "D003",
+                "color": "grey",
+                "quantity": 12,
+                "cost_price": 47.5,
+                "price": 95.0
+            }
+        ]
+    },
+    "E": {
+        "name": "Travel Tote",
+        "variants": [
+            {
+                "name": "Weekender",
+                "code": "E001",
+                "color": "blue",
+                "quantity": 10,
+                "cost_price": 41.25,
+                "price": 75.0
+            },
+            {
+                "name": "Jetsetter",
+                "code": "E002",
+                "color": "grey",
+                "quantity": 8,
+                "cost_price": 48.6,
+                "price": 90.0
+            },
+            {
+                "name": "Voyager",
+                "code": "E003",
+                "color": "black",
+                "quantity": 5,
+                "cost_price": 52.0,
+                "price": 80.0
+            },
+            {
+                "name": "Coastal Carry",
+                "code": "E004",
+                "color": "yellow",
+                "quantity": 14,
+                "cost_price": 32.5,
+                "price": 65.0
+            }
+        ]
+    },
+    "F": {
+        "name": "Crossbody Bag",
+        "variants": [
+            {
+                "name": "Swift",
+                "code": "F001",
+                "color": "yellow",
+                "quantity": 20,
+                "cost_price": 16.5,
+                "price": 30.0
+            },
+            {
+                "name": "Orbit",
+                "code": "F002",
+                "color": "blue",
+                "quantity": 14,
+                "cost_price": 14.4,
+                "price": 32.0
+            }
+        ]
+    },
+    "G": {
+        "name": "Gym Bag",
+        "variants": [
+            {
+                "name": "Flex 20",
+                "code": "G001",
+                "color": "grey",
+                "quantity": 25,
+                "cost_price": 19.25,
+                "price": 35.0
+            },
+            {
+                "name": "Iron Lift",
+                "code": "G002",
+                "color": "black",
+                "quantity": 18,
+                "cost_price": 26.0,
+                "price": 40.0
+            },
+            {
+                "name": "Active Pulse",
+                "code": "G003",
+                "color": "red",
+                "quantity": 15,
+                "cost_price": 24.7,
+                "price": 38.0
+            },
+            {
+                "name": "Zen Duffle",
+                "code": "G004",
+                "color": "pink",
+                "quantity": 10,
+                "cost_price": 21.0,
+                "price": 42.0
+            }
+        ]
+    },
+    "H": {
+        "name": "Carryon Bag",
+        "variants": [
+            {
+                "name": "Skyway",
+                "code": "H001",
+                "color": "blue",
+                "quantity": 12,
+                "cost_price": 66.0,
+                "price": 120.0
+            },
+            {
+                "name": "Terminal",
+                "code": "H002",
+                "color": "black",
+                "quantity": 9,
+                "cost_price": 87.75,
+                "price": 135.0
+            },
+            {
+                "name": "Cloud Cabin",
+                "code": "H003",
+                "color": "white",
+                "quantity": 6,
+                "cost_price": 79.75,
+                "price": 145.0
+            }
+        ]
+    },
+    "I": {
+        "name": "Cosmetic Bag",
+        "variants": [
+            {
+                "name": "Glow Kit",
+                "code": "I001",
+                "color": "pink",
+                "quantity": 30,
+                "cost_price": 9.75,
+                "price": 15.0
+            },
+            {
+                "name": "Luxe Case",
+                "code": "I002",
+                "color": "white",
+                "quantity": 15,
+                "cost_price": 8.8,
+                "price": 22.0
+            }
+        ]
+    },
+    "J": {
+        "name": "Wallet",
+        "variants": [
+            {
+                "name": "Slim Fold",
+                "code": "J001",
+                "color": "black",
+                "quantity": 40,
+                "cost_price": 13.75,
+                "price": 25.0
+            },
+            {
+                "name": "Snap Button",
+                "code": "J002",
+                "color": "red",
+                "quantity": 22,
+                "cost_price": 18.2,
+                "price": 28.0
+            },
+            {
+                "name": "Zip Around",
+                "code": "J003",
+                "color": "blue",
+                "quantity": 18,
+                "cost_price": 12.8,
+                "price": 32.0
+            }
+        ]
+    },
+    "K": {
+        "name": "Pouch",
+        "variants": [
+            {
+                "name": "Utility S",
+                "code": "K001",
+                "color": "grey",
+                "quantity": 50,
+                "cost_price": 5.0,
+                "price": 10.0
+            },
+            {
+                "name": "Utility M",
+                "code": "K002",
+                "color": "yellow",
+                "quantity": 35,
+                "cost_price": 7.8,
+                "price": 12.0
+            }
+        ]
+    },
+    "L": {
+        "name": "Purse",
+        "variants": [
+            {
+                "name": "Clutch Me",
+                "code": "L001",
+                "color": "pink",
+                "quantity": 10,
+                "cost_price": 32.5,
+                "price": 50.0
+            },
+            {
+                "name": "Petite Pearl",
+                "code": "L002",
+                "color": "white",
+                "quantity": 6,
+                "cost_price": 28.0,
+                "price": 70.0
+            }
+        ]
+    },
+    "M": {
+        "name": "Hobo Bag",
+        "variants": [
+            {
+                "name": "Slouchy",
+                "code": "M001",
+                "color": "blue",
+                "quantity": 8,
+                "cost_price": 35.75,
+                "price": 55.0
+            },
+            {
+                "name": "Boho Dream",
+                "code": "M002",
+                "color": "black",
+                "quantity": 11,
+                "cost_price": 23.2,
+                "price": 58.0
+            }
+        ]
+    },
+    "N": {
+        "name": "Lunch Bag",
+        "variants": [
+            {
+                "name": "FreshBox",
+                "code": "N001",
+                "color": "yellow",
+                "quantity": 18,
+                "cost_price": 9.9,
+                "price": 18.0
+            },
+            {
+                "name": "TermoLite",
+                "code": "N002",
+                "color": "red",
+                "quantity": 24,
+                "cost_price": 13.0,
+                "price": 20.0
+            }
+        ]
+    },
+    "O": {
+        "name": "Luggage",
+        "variants": [
+            {
+                "name": "Titan 28",
+                "code": "O001",
+                "color": "black",
+                "quantity": 5,
+                "cost_price": 117.0,
+                "price": 180.0
+            },
+            {
+                "name": "Titan 20",
+                "code": "O002",
+                "color": "grey",
+                "quantity": 7,
+                "cost_price": 60.0,
+                "price": 150.0
+            },
+            {
+                "name": "Cloud 9",
+                "code": "O003",
+                "color": "blue",
+                "quantity": 4,
+                "cost_price": 115.5,
+                "price": 210.0
+            }
+        ]
+    }
+}

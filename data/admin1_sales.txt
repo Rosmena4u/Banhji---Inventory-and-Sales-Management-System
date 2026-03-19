@@ -1,0 +1,483 @@
+Customer:Meytan
+Phone:(+855)12 445 678
+Date:2025-01-05 10:15:00
+Backpack - Koda|1|45.0|0.0
+TOTAL:45.0
+PROFIT:45.0
+END
+Customer:Hana
+Phone:(+855)93 221 004
+Date:2025-01-12 11:30:22
+Tote Bag - Canvas Basic|1|20.0|11.0
+TOTAL:20.0
+PROFIT:9.0
+END
+Customer:Nika
+Phone:(+855)10 556 7892
+Date:2025-01-18 09:45:10
+Wallet - Slim Fold|1|25.0|13.75
+TOTAL:25.0
+PROFIT:11.25
+END
+Customer:Lin
+Phone:(+855)77 334 112
+Date:2025-01-25 14:20:05
+Crossbody Bag - Swift|1|30.0|16.5
+TOTAL:30.0
+PROFIT:13.5
+END
+Customer:Neary
+Phone:(+855)12 889 443
+Date:2025-02-02 16:10:45
+Handbag - Classy Mini|1|85.0|45.9
+TOTAL:85.0
+PROFIT:39.1
+END
+Customer:Panha
+Phone:(+855)85 667 221
+Date:2025-02-09 13:05:30
+Gym Bag - Flex 20|1|35.0|19.25
+TOTAL:35.0
+PROFIT:15.75
+END
+Customer:Sok
+Phone:(+855)99 112 3345
+Date:2025-02-14 10:50:12
+Purse - Clutch Me|1|50.0|32.5
+TOTAL:50.0
+PROFIT:17.5
+END
+Customer:Bopha
+Phone:(+855)15 443 221
+Date:2025-02-21 11:25:00
+Cosmetic Bag - Glow Kit|1|15.0|9.75
+TOTAL:15.0
+PROFIT:5.25
+END
+Customer:James
+Phone:(+855)10 998 776
+Date:2025-02-28 15:40:18
+Luggage - Titan 20|1|150.0|60.0
+TOTAL:150.0
+PROFIT:90.0
+END
+Customer:Pisey
+Phone:(+855)12 554 3321
+Date:2025-03-05 09:12:33
+Pouch - Utility S|1|10.0|5.0
+TOTAL:10.0
+PROFIT:5.0
+END
+Customer:David
+Phone:(+855)92 776 554
+Date:2025-03-12 14:00:00
+Carryon Bag - Terminal|1|135.0|87.75
+TOTAL:135.0
+PROFIT:47.25
+END
+Customer:Sreyneang
+Phone:(+855)11 223 344
+Date:2025-03-20 16:55:20
+Travel Tote - Weekender|1|75.0|41.25
+TOTAL:75.0
+PROFIT:33.75
+END
+Customer:Rotha
+Phone:(+855)16 554 990
+Date:2025-03-28 12:30:10
+Hobo Bag - Boho Dream|1|58.0|23.2
+TOTAL:58.0
+PROFIT:34.8
+END
+Customer:Sophea
+Phone:(+855)12 332 1102
+Date:2025-04-04 10:15:45
+Backpack - The Tortoise|1|55.0|22.0
+TOTAL:55.0
+PROFIT:33.0
+END
+Customer:Sarah
+Phone:(+855)10 445 887
+Date:2025-04-12 14:40:00
+Shoulder bag - Urban Edge|1|60.0|33.0
+TOTAL:60.0
+PROFIT:27.0
+END
+Customer:Seyha
+Phone:(+855)98 776 112
+Date:2025-04-20 09:20:15
+Lunch Bag - TermoLite|1|20.0|13.0
+TOTAL:20.0
+PROFIT:7.0
+END
+Customer:Vicheka
+Phone:(+855)12 990 443
+Date:2025-04-30 11:10:30
+Wallet - Zip Around|1|32.0|12.8
+TOTAL:32.0
+PROFIT:19.2
+END
+Customer:Leakhena
+Phone:(+855)93 554 2210
+Date:2025-05-08 15:00:22
+Handbag - Daily Suede|1|95.0|47.5
+TOTAL:95.0
+PROFIT:47.5
+END
+Customer:Michael
+Phone:(+855)15 112 443
+Date:2025-05-15 13:45:00
+Gym Bag - Active Pulse|1|38.0|24.7
+TOTAL:38.0
+PROFIT:13.3
+END
+Customer:Chantrea
+Phone:(+855)17 665 443
+Date:2025-05-22 10:30:12
+Cosmetic Bag - Luxe Case|1|22.0|8.8
+TOTAL:22.0
+PROFIT:13.2
+END
+Customer:Ratanak
+Phone:(+855)10 223 998
+Date:2025-05-30 14:50:40
+Backpack - Bagsy|1|42.0|25.2
+TOTAL:42.0
+PROFIT:16.8
+END
+Customer:Emily
+Phone:(+855)12 887 5541
+Date:2025-06-07 16:20:15
+Travel Tote - Voyager|1|80.0|52.0
+TOTAL:80.0
+PROFIT:28.0
+END
+Customer:Visal
+Phone:(+855)92 110 998
+Date:2025-06-14 09:40:33
+Carryon Bag - Skyway|1|120.0|66.0
+TOTAL:120.0
+PROFIT:54.0
+END
+Customer:Davin
+Phone:(+855)11 445 221
+Date:2025-06-25 11:15:00
+Pouch - Utility M|1|12.0|7.8
+TOTAL:12.0
+PROFIT:4.2
+END
+Customer:Socheata
+Phone:(+855)16 776 332
+Date:2025-07-02 14:30:25
+Tote Bag - Market Pro|1|25.0|14.5
+TOTAL:25.0
+PROFIT:10.5
+END
+Customer:Phirun
+Phone:(+855)12 334 5562
+Date:2025-07-10 10:05:12
+Crossbody Bag - Orbit|1|32.0|14.4
+TOTAL:32.0
+PROFIT:17.6
+END
+Customer:Sokchea
+Phone:(+855)10 554 112
+Date:2025-07-18 15:45:50
+Luggage - Titan 28|1|180.0|117.0
+TOTAL:180.0
+PROFIT:63.0
+END
+Customer:Anna
+Phone:(+855)93 998 443
+Date:2025-07-26 12:20:00
+Shoulder bag - Street Chic|1|65.0|42.25
+TOTAL:65.0
+PROFIT:22.75
+END
+Customer:Kim
+Phone:(+855)15 221 665
+Date:2025-08-04 11:50:33
+Purse - Petite Pearl|1|70.0|28.0
+TOTAL:70.0
+PROFIT:42.0
+END
+Customer:Mony
+Phone:(+855)17 443 887
+Date:2025-08-12 14:10:15
+Lunch Bag - FreshBox|1|18.0|9.9
+TOTAL:18.0
+PROFIT:8.1
+END
+Customer:Samnang
+Phone:(+855)12 112 009
+Date:2025-08-20 09:30:45
+Gym Bag - Zen Duffle|1|42.0|21.0
+TOTAL:42.0
+PROFIT:21.0
+END
+Customer:Linda
+Phone:(+855)10 665 443
+Date:2025-08-29 16:05:20
+Backpack - Pocketz|1|38.0|20.9
+TOTAL:38.0
+PROFIT:17.1
+END
+Customer:Sovann
+Phone:(+855)98 332 110
+Date:2025-09-06 13:40:12
+Hobo Bag - Slouchy|1|55.0|35.75
+TOTAL:55.0
+PROFIT:19.25
+END
+Customer:Sinet
+Phone:(+855)11 554 8871
+Date:2025-09-14 10:25:00
+Handbag - Evening Gala|1|110.0|71.5
+TOTAL:110.0
+PROFIT:38.5
+END
+Customer:Bora
+Phone:(+855)16 223 110
+Date:2025-09-22 15:15:33
+Wallet - Snap Button|1|28.0|18.2
+TOTAL:28.0
+PROFIT:9.8
+END
+Customer:John
+Phone:(+855)12 998 554
+Date:2025-09-30 09:50:45
+Travel Tote - Coastal Carry|1|65.0|32.5
+TOTAL:65.0
+PROFIT:32.5
+END
+Customer:Channy
+Phone:(+855)93 112 443
+Date:2025-10-08 14:35:10
+Gym Bag - Iron Lift|1|40.0|26.0
+TOTAL:40.0
+PROFIT:14.0
+END
+Customer:Mary
+Phone:(+855)15 776 221
+Date:2025-10-15 11:20:00
+Cosmetic Bag - Glow Kit|1|15.0|9.75
+TOTAL:15.0
+PROFIT:5.25
+END
+Customer:Raksmey
+Phone:(+855)17 445 998
+Date:2025-10-24 10:05:45
+Backpack - Auro|1|45.0|24.75
+TOTAL:45.0
+PROFIT:20.25
+END
+Customer:Oudom
+Phone:(+855)10 332 554
+Date:2025-11-01 16:40:12
+Tote Bag - Canvas Basic|1|20.0|11.0
+TOTAL:20.0
+PROFIT:9.0
+END
+Customer:Chan
+Phone:(+855)12 556 1103
+Date:2025-11-10 13:15:33
+Carryon Bag - Cloud Cabin|1|145.0|79.75
+TOTAL:145.0
+PROFIT:65.25
+END
+Customer:Thomas
+Phone:(+855)92 887 443
+Date:2025-11-18 09:45:00
+Luggage - Cloud 9|1|210.0|115.5
+TOTAL:210.0
+PROFIT:94.5
+END
+Customer:Devi
+Phone:(+855)11 112 665
+Date:2025-11-26 14:55:20
+Pouch - Utility S|1|10.0|5.0
+TOTAL:10.0
+PROFIT:5.0
+END
+Customer:Kunthea
+Phone:(+855)16 443 554
+Date:2025-12-04 11:30:15
+Crossbody Bag - Swift|1|30.0|16.5
+TOTAL:30.0
+PROFIT:13.5
+END
+Customer:Reach
+Phone:(+855)12 998 332
+Date:2025-12-12 10:10:45
+Backpack - The Tortoise|1|55.0|22.0
+TOTAL:55.0
+PROFIT:33.0
+END
+Customer:Sophal
+Phone:(+855)93 221 7762
+Date:2025-12-20 15:40:33
+Travel Tote - Jetsetter|1|90.0|48.6
+TOTAL:90.0
+PROFIT:41.4
+END
+Customer:Kevin
+Phone:(+855)15 554 112
+Date:2025-12-28 09:25:00
+Wallet - Slim Fold|1|25.0|13.75
+TOTAL:25.0
+PROFIT:11.25
+END
+Customer:Meytan
+Phone:(+855)12 445 678
+Date:2026-01-04 14:15:10
+Shoulder bag - Urban Edge|1|60.0|33.0
+TOTAL:60.0
+PROFIT:27.0
+END
+Customer:Hana
+Phone:(+855)93 221 004
+Date:2026-01-11 11:05:45
+Purse - Clutch Me|1|50.0|32.5
+TOTAL:50.0
+PROFIT:17.5
+END
+Customer:Nika
+Phone:(+855)10 556 789
+Date:2026-01-18 10:40:22
+Backpack - Koda|1|45.0|0.0
+TOTAL:45.0
+PROFIT:45.0
+END
+Customer:Lin
+Phone:(+855)77 334 112
+Date:2026-01-25 15:55:30
+Gym Bag - Flex 20|1|35.0|19.25
+TOTAL:35.0
+PROFIT:15.75
+END
+Customer:Neary
+Phone:(+855)12 889 443
+Date:2026-02-01 13:20:15
+Cosmetic Bag - Luxe Case|1|22.0|8.8
+TOTAL:22.0
+PROFIT:13.2
+END
+Customer:Panha
+Phone:(+855)85 667 221
+Date:2026-02-07 09:45:00
+Handbag - Classy Mini|1|85.0|45.9
+TOTAL:85.0
+PROFIT:39.1
+END
+Customer:Sok
+Phone:(+855)99 112 334
+Date:2026-02-13 16:30:12
+Tote Bag - Market Pro|1|25.0|14.5
+TOTAL:25.0
+PROFIT:10.5
+END
+Customer:Vuthy
+Phone:(+855)12 556 778
+Date:2026-02-18 11:15:33
+Wallet - Zip Around|1|32.0|12.8
+TOTAL:32.0
+PROFIT:19.2
+END
+Customer:Sandra
+Phone:(+855)10 443 1104
+Date:2026-02-23 14:40:45
+Carryon Bag - Terminal|1|135.0|87.75
+TOTAL:135.0
+PROFIT:47.25
+END
+Customer:Arun
+Phone:(+855)92 776 221
+Date:2026-02-28 10:25:00
+Lunch Bag - TermoLite|1|20.0|13.0
+TOTAL:20.0
+PROFIT:7.0
+END
+Customer:Rath
+Phone:(+855)11 998 443
+Date:2026-03-02 15:50:20
+Travel Tote - Weekender|1|75.0|41.25
+TOTAL:75.0
+PROFIT:33.75
+END
+Customer:Chea
+Phone:(+855)16 223 554
+Date:2026-03-05 12:10:15
+Backpack - Bagsy|1|42.0|25.2
+TOTAL:42.0
+PROFIT:16.8
+END
+Customer:Sophie
+Phone:(+855)12 334 112
+Date:2026-03-08 11:45:33
+Pouch - Utility M|1|12.0|7.8
+TOTAL:12.0
+PROFIT:4.2
+END
+Customer:Bunly
+Phone:(+855)93 556 887
+Date:2026-03-10 14:20:00
+Crossbody Bag - Orbit|1|32.0|14.4
+TOTAL:32.0
+PROFIT:17.6
+END
+Customer:Navy
+Phone:(+855)15 887 221
+Date:2026-03-12 09:30:15
+Gym Bag - Active Pulse|1|38.0|24.7
+TOTAL:38.0
+PROFIT:13.3
+END
+Customer:Peter
+Phone:(+855)17 112 443
+Date:2026-03-14 16:15:45
+Luggage - Titan 20|1|150.0|60.0
+TOTAL:150.0
+PROFIT:90.0
+END
+Customer:Sela
+Phone:(+855)12 665 998
+Date:2026-03-16 11:05:20
+Handbag - Daily Suede|1|95.0|47.5
+TOTAL:95.0
+PROFIT:47.5
+END
+Customer:Thida
+Phone:(+855)10 223 110
+Date:2026-03-18 10:20:33
+Wallet - Snap Button|1|28.0|18.2
+TOTAL:28.0
+PROFIT:9.8
+END
+Customer:Dara
+Phone:(+855)98 445 776
+Date:2026-03-19 14:45:12
+Backpack - Pocketz|1|38.0|20.9
+TOTAL:38.0
+PROFIT:17.1
+END
+Customer:Meytan
+Phone:(+855)12 445 678
+Date:2026-03-20 15:55:00
+Hobo Bag - Boho Dream|1|58.0|23.2
+TOTAL:58.0
+PROFIT:34.8
+END
+Customer:Ka
+Phone:0388322
+Date:2026-03-19 15:28:15
+Backpack - Auro|2|45.0|24.75
+TOTAL:90.0
+PROFIT:40.5
+END
+Customer:Meytan
+Phone:02827922
+Date:2026-03-19 15:30:36
+Backpack - Auro|1|45.0|31.5
+TOTAL:45.0
+PROFIT:13.5
+END
