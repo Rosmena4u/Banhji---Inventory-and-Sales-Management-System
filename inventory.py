@@ -281,6 +281,7 @@ def menu():
         elif choice == "6": delete() 
         elif choice == "7": 
             print("Returning to main menu...")  
+            break
         else:
             print("Invalid selection")  
 #MAIN 
