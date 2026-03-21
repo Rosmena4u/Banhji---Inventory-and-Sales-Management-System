@@ -177,11 +177,12 @@ This project is licensed under the MIT License — see LICENSE for details.
 
 
 ### Inventory Management
-<img width="358" height="239" alt="image" src="https://github.com/user-attachments/assets/922f75da-4035-446c-86f4-1c8add3ba615" />
+<img width="1010" height="526" alt="image" src="https://github.com/user-attachments/assets/4e62d2f7-bb86-4927-91a8-f2d6bada92c2" />
+
 
 
 ### Sales Management
-<img width="312" height="166" alt="image" src="https://github.com/user-attachments/assets/5ec61dda-dc7a-4fd9-b991-473f34c4979f" />
+<img width="1068" height="430" alt="image" src="https://github.com/user-attachments/assets/1eb145d7-3b21-442f-9a97-103d71d4947f" />
 
 
 #### Changelog
