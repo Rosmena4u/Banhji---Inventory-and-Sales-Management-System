@@ -203,6 +203,7 @@ v1.0.0
 - Inventory management (add/view/update/delete/search)
 - Sales system with receipts
 - Dashboard overview
+
 v1.1.0
 - Added low-stock alerts.
 - Added daily and weekly sales reports
