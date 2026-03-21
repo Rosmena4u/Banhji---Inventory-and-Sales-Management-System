@@ -12,7 +12,7 @@ Banhji is a Python-based management tool built to move retail tracking away from
 To get the system running on your local machine, follow these four steps: 
   1. Clone the Repository 
     Open your terminal and run the following commands to download the project and navigate into the directory: 
-    git clone https://github.com/yourusername/banji-inventory.git 
+    git clone https://github.com/mey-ui/---BANHJI-Inventory-and-Sales-Management.git 
     cd banji-inventory 
   2. Install Python 
     Ensure you have Python 3.9 or a newer version installed. You can check your current version by running: 
